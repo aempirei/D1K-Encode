@@ -1,0 +1,20 @@
+D1K - encodes or decodes one or more files in the 
+D1K_ENCODE format using ascii dicks.  a single
+.d1k file can contain multiple encoded files.
+
+(c) 2006 by aempirei <aempirei@gmail.com> blog.twentygoto10.com
+The GPL 2.0 applies to this code.
+
+For usage hints, type "d1k"
+
+a typical decode:
+
+d1k d gadi.d1k
+
+a typical encode:
+
+d1k e my_name_is_gadi_evron.mp3 el8.4.txt > woohoo.d1k
+
+To compile: gcc -o d1k d1k.c
+
+an example d1k archive can be found here at gadi.d1k
