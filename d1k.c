@@ -46,6 +46,9 @@ typedef struct {
 } DIK;
 
 /*
+ * disclaimer: this comment was not made by me, but by a
+ * security professional i'll leave nameless.
+ *
  * each of the 15 dicks used to encode data here have been
  * modeled after the penises of famous infosec experts
  * taken from my extensive private collection of various
