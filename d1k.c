@@ -4,7 +4,11 @@
  * D1K_ENCODE format using ascii dicks.  a single
  * .d1k file can contain multiple encoded files.
  *
- * (c) 2006 by aempirei <aempirei@gmail.com> blog.twentygoto10.com
+ * this code has finally been released to the public
+ * after many years of lying dormant and dusty for
+ * a previously unreleased project.
+ *
+ * (c) 2006 by van Hauser / THC <vh@thc.org> www.thc.org
  * The GPL 2.0 applies to this code.
  *
  * For usage hints, type "d1k"
@@ -46,9 +50,6 @@ typedef struct {
 } DIK;
 
 /*
- * disclaimer: this comment was not made by me, but by a
- * security professional i'll leave nameless.
- *
  * each of the 15 dicks used to encode data here have been
  * modeled after the penises of famous infosec experts
  * taken from my extensive private collection of various
