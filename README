@@ -2,6 +2,10 @@ D1K - encodes or decodes one or more files in the
 D1K_ENCODE format using ascii dicks.  a single
 .d1k file can contain multiple encoded files.
 
+this code has finally been released to the public
+after many years of lying dormant and dusty for
+a previously unreleased project.
+
 (c) 2006 by aempirei <aempirei@gmail.com> blog.twentygoto10.com
 The GPL 2.0 applies to this code.
 
